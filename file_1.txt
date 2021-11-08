@@ -2,3 +2,6 @@ file_1 line0
 file_1 line1
 file_1 line2
 file_1 line3
+new line 1
+new line 2
+new line 3
